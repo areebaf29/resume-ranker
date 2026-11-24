@@ -1,0 +1,3 @@
+Sample Candidate C (synthetic example)
+Machine learning student. Python, scikit-learn, pandas, numpy, statistics.
+Kaggle projects and a Streamlit demo. Some SQL coursework.
