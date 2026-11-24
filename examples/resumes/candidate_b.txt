@@ -1,0 +1,3 @@
+Sample Candidate B (synthetic example)
+Frontend developer. React, TypeScript, HTML and CSS. 2 years of experience.
+Built a portfolio site and a Node.js REST API.
