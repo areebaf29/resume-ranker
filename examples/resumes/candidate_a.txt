@@ -1,0 +1,4 @@
+Sample Candidate A (synthetic example)
+Data analyst intern, 1 year of experience.
+Built Power BI dashboards on SQL Server data, cleaned data with Python and pandas,
+wrote weekly Excel reports. Used Git for version control.
