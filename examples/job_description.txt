@@ -1,0 +1,11 @@
+Data Analyst Intern
+
+Requirements:
+- 1+ years of hands-on experience (internships count)
+- Strong SQL and Excel
+- Power BI or Tableau dashboards
+- Python (pandas) for data analysis
+
+Nice to have:
+- Statistics and A/B testing
+- Git
